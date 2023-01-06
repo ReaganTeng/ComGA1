@@ -1,0 +1,13 @@
+﻿  Application.cpp
+  Scene_Assignment.cpp
+C:\Users\yuzhe\source\repos\DM2122\Assignment_1\Application\Source\Scene_Assignment.cpp(177,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\source\repos\DM2122\Assignment_1\Application\Source\Scene_Assignment.cpp(208,118): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\source\repos\DM2122\Assignment_1\Application\Source\Scene_Assignment.cpp(224,124): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\source\repos\DM2122\Assignment_1\Application\Source\Scene_Assignment.cpp(455,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_1\Application\Source\Scene_Assignment.cpp(555,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  MeshBuilder.cpp
+  shader.cpp
+  Utility.cpp
+  Generating Code...
+  Application.vcxproj -> C:\Users\yuzhe\source\repos\DM2122\Assignment_1\Debug\Application.exe
